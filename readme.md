@@ -5,6 +5,9 @@
 
 [(Demo Video)](https://drive.google.com/file/d/1WFGmMsGPnWmftOkCpIvz-AuOtjvvvzsT/view?usp=sharing)
 
+working screenshot:-<img width="882" height="357" alt="image" src="https://github.com/user-attachments/assets/d3f5553d-d062-4f1e-9467-f0fe492c161f" />
+
+
 
 
 We basically had 3 approaches to design this system.
