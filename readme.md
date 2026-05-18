@@ -5,7 +5,7 @@
 
 [(Demo Video)](https://drive.google.com/file/d/1WFGmMsGPnWmftOkCpIvz-AuOtjvvvzsT/view?usp=sharing)
 
-working screenshot:-<img width="882" height="357" alt="image" src="https://github.com/user-attachments/assets/d3f5553d-d062-4f1e-9467-f0fe492c161f" />
+working screenshot (some are mentioned below in this readme, and some are present in the doc attached in the google form):-<img width="882" height="357" alt="image" src="https://github.com/user-attachments/assets/d3f5553d-d062-4f1e-9467-f0fe492c161f" />
 
 
 
