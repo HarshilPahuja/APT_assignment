@@ -190,14 +190,13 @@ Also open `admin.html` using Live Server.
 
 # Screenshots
 
-## Login Page
-(Add Screenshot Here)
 
 ## Customer Dashboard
-(Add Screenshot Here)
+<img width="1907" height="643" alt="image" src="https://github.com/user-attachments/assets/2fd24aa5-4ed1-4015-8fc6-83d547cd2d8a" />
 
 ## Admin Dashboard
-(Add Screenshot Here)
+<img width="1898" height="462" alt="image" src="https://github.com/user-attachments/assets/962100de-1f8e-4088-ba08-954cdbbad489" />
+
 
 ## Supabase tables
 <img width="973" height="486" alt="image" src="https://github.com/user-attachments/assets/62cf133b-0d35-42a0-adad-8379762fdb4f" />
