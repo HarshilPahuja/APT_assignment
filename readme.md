@@ -1,4 +1,11 @@
-# Real-Time Order Management System
+
+
+
+# Demo Video
+
+[(Demo Video)](https://drive.google.com/file/d/1WFGmMsGPnWmftOkCpIvz-AuOtjvvvzsT/view?usp=sharing)
+
+
 
 We basically had 3 approaches to design this system.
 
@@ -206,7 +213,3 @@ Also open `admin.html` using Live Server.
 
 
 ---
-
-# Demo Video
-
-[(Demo Video)](https://drive.google.com/file/d/1WFGmMsGPnWmftOkCpIvz-AuOtjvvvzsT/view?usp=sharing)
