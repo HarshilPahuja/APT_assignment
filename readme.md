@@ -200,10 +200,11 @@ Also open `admin.html` using Live Server.
 (Add Screenshot Here)
 
 ## Supabase tables
-(Add Screenshot Here)
+<img width="973" height="486" alt="image" src="https://github.com/user-attachments/assets/62cf133b-0d35-42a0-adad-8379762fdb4f" />
 
 ## supabase_realtime setup
-(Add Screenshot Here)
+<img width="940" height="249" alt="image" src="https://github.com/user-attachments/assets/5f3fb0ea-4a5f-4f66-b2c8-8020f5065f87" />
+
 
 ---
 
